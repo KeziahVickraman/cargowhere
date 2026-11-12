@@ -1,0 +1,8 @@
+{
+  "name": "ParkSG Live",
+  "description": "Singapore real-time carpark availability tracker covering HDB, URA, commercial malls, and CBD hubs with live lot counts, parking rates, and EV charging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
